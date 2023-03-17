@@ -1,0 +1,3 @@
+# projects
+
+I have experience working on projects in several programming languages, including C, HTML, CSS, and Python. In C, I have worked on developing programs, including writing code for implementing data structures and algorithms for efficient memory management. With HTML and CSS, I have developed responsive web pages and user interfaces, implementing modern design principles and ensuring cross-browser compatibility. In Python, I have built several projects, including a web application , a machine learning model for price prediction, and worked with openCV. I am comfortable working with a variety of technologies and programming paradigms and enjoy the challenges and problem-solving that come with working on diverse projects.
